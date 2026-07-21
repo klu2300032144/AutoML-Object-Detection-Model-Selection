@@ -29,7 +29,6 @@ The comparison is performed using the COCO128 dataset to determine which model p
 - Ultralytics YOLOv8
 - OpenCV
 - NumPy
-- Matplotlib
 
 ---
 
